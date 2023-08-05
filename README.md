@@ -1,4 +1,4 @@
-                                                                            HELLO MY NAME IS STANISLAV!
+                              HELLO MY NAME IS STANISLAV!
 
 				   - IM 15 YEARS OLD!
 	               - THIS YEAR IM GOING TO STUDY IN KPK
