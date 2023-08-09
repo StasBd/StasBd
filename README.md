@@ -5,3 +5,4 @@
 				   - I TEACHING PROGRAMMING FROM 1.01
 				   - IM HAPPY TO COOPERATE WITH ANYBODY!
 	               - REMEMBER THAT YOUR SMALL PROGRESS IS SOMEBODYS MAXIMUM!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StasBd&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StasBd&layout=donut-vertical)](https://github.com/StasBd/github-readme-stats)
